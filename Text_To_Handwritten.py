@@ -10,5 +10,5 @@ str = a.read()
 pywhatkit.text_to_handwriting(str, 'output.png', rgb=[0, 255, 0])
 # You can Also give input directly
 second_file = input("Enter The Content In File And See Magic =")
-pywhatkit.text_to_handwriting(second_file, rgb=[0, 255, 0])       # it will your output
+pywhatkit.text_to_handwriting(second_file, rgb=[0, 255, 0])       # it will show your output
 print("Operation Done Successfully")
